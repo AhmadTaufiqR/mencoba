@@ -27,6 +27,8 @@ class MyApp extends StatelessWidget {
           //routes for nammed navigation
           '/': (context) => HomePage(),
           '/cart': (context) => DemoPage(),
+
+          anjirlah kamu
     });
   }
 }

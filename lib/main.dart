@@ -31,6 +31,7 @@ class MyApp extends StatelessWidget {
           anjirlah kamu
           wkwkwkwkwk
           inininini
+          padjdkdfjsdfj
     });
   }
 }

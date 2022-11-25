@@ -30,6 +30,7 @@ class MyApp extends StatelessWidget {
           Ini hanya mengecheck terlebih dahulu,
           HomePage()
           DemoPage()
+          merubah lagi nih biar tau perubahannya
     });
   }
 }

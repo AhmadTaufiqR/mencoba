@@ -29,6 +29,7 @@ class MyApp extends StatelessWidget {
           '/cart': (context) => DemoPage(),
 
           anjirlah kamu
+          wkwkwkwkwk
     });
   }
 }

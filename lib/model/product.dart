@@ -8,3 +8,4 @@ class Product {
   Product(this.id, this.productName, this.productImage, this.productDescription,
       this.price);
 }
+ayo lagi disini ditambah juga

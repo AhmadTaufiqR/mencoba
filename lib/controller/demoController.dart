@@ -19,3 +19,5 @@ class DemoController extends GetxController {
   ThemeData get theme => isDark ? ThemeData.dark() : ThemeData.light();
   void changeTheme(bool val) => storage.write('darkmode', val);
 }
+
+ini berubah dimodel

@@ -28,6 +28,7 @@ class MyApp extends StatelessWidget {
           '/': (context) => HomePage(),
           '/cart': (context) => DemoPage(),
 masuk kalagia dsajdsdsojad
+  lsdjsdojsdfojsdfofjsofjeowejowewjeokdwdjdsdlsdds
 
           anjirlah kamu
           wkwkwkwkwk

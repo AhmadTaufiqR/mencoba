@@ -32,6 +32,8 @@ masuk kalagia dsajdsdsojad
 
           anjirlah kamu
           wkwkwkwkwk
+          inininini
+          padjdkdfjsdfj
     });
   }
 }

@@ -27,10 +27,14 @@ class MyApp extends StatelessWidget {
           //routes for nammed navigation
           '/': (context) => HomePage(),
           '/cart': (context) => DemoPage(),
-          Ini hanya mengecheck terlebih dahulu,
-          HomePage()
-          DemoPage()
-          merubah lagi nih biar tau perubahannya
+masuk kalagia dsajdsdsojad
+  lsdjsdojsdfojsdfofjsofjeowejowewjeokdwdjdsdlsdds
+
+          anjirlah kamu
+          wkwkwkwkwk
+          inininini
+          padjdkdfjsdfj
+  anjiirrrrr
     });
   }
 }
